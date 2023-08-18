@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wtdemo/static/css/main.1559d889.css",
+    "main.js": "/wtdemo/static/js/main.de63f702.js",
+    "index.html": "/wtdemo/index.html",
+    "main.1559d889.css.map": "/wtdemo/static/css/main.1559d889.css.map",
+    "main.de63f702.js.map": "/wtdemo/static/js/main.de63f702.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1559d889.css",
+    "static/js/main.de63f702.js"
+  ]
+}
